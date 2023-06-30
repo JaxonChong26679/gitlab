@@ -27,3 +27,5 @@ To deploy GitLab, you can follow these general steps:
    - Configure user authentication: Set up user authentication options, such as LDAP, SAML, or OAuth.
 
 These steps provide a general overview of the GitLab deployment process. For detailed instructions and specific configuration options, refer to the official GitLab documentation. It provides comprehensive guides and troubleshooting information to help you set up and manage your GitLab instance effectively.
+
+## docker hub
